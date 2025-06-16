@@ -1,0 +1,10 @@
+"""
+a={"NAME":"SIVA"}
+print(a)
+""
+a={"NAME":"SIVA"}
+print(type(a))
+""
+a={"NAME":"SIVA"}
+print(a["NAME"])
+"""
